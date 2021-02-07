@@ -1,16 +1,17 @@
-# simple_calculator
+# Simple Calculator
 
-A new Flutter project.
+Asimple calculator made using math_expression library
 
 ## Getting Started
+Clone the project onto your system.
+```
+git clone https://github.com/arunav11/Simple-Calculator-using-Flutter.git
 
-This project is a starting point for a Flutter application.
+```
+Open the project in VSCode or any other editor which supports flutter 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In terminal run 
+```
+flutter pub get
+```
+to install the dependencies and run the application
